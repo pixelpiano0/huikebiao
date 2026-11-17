@@ -48,8 +48,6 @@ docs/                截图
 
 ![桌面小组件](docs/widget.jpg)
 
-![桌面小组件（裁切）](docs/widget-card.png)
-
 > 桌面小组件为 2×3 尺寸，显示整周课表与今天的高亮。
 
 ## 说明
