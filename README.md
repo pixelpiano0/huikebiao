@@ -46,7 +46,7 @@ docs/                截图
 |---|---|---|
 | ![周课表](docs/week.png) | ![今天](docs/today.png) | ![新建任务](docs/task.png) |
 
-![桌面小组件](docs/widget.png)
+![桌面小组件](docs/widget.jpg)
 
 ![桌面小组件（裁切）](docs/widget-card.png)
 
