@@ -46,6 +46,10 @@ docs/                截图
 |---|---|---|
 | ![周课表](docs/week.png) | ![今天](docs/today.png) | ![新建任务](docs/task.png) |
 
+![桌面小组件](docs/widget.png)
+
+> 桌面小组件为 2×3 尺寸，显示整周课表与今天的高亮。
+
 ## 说明
 
 - 课表数据来自学校门户的 `v1/calendar/share/schedule/*` 接口，需要登录态；App 不保存账号密码，登录在系统 WebView 内完成
